@@ -1,0 +1,18 @@
+Tugas
+1119003-Levin Martinus
+Insight, presentasi, Text Preprocessing,  tambahan kamus sentimen(lexicon), twitter API
+
+1119005-Aristo Demos
+Insight, Presentasi, tambahan kamus sentimen(lexicon), twitter API
+
+1119006-William Juniar
+Insight, Presentasi, tambahan kamus sentimen(lexicon), twitter API
+
+1119007-Timothy Ray
+Insight, SVM modeling, Text Preprocessing, tambahan kamus sentimen(lexicon), manual labeling, twitter API, presentasi
+
+1119009-Julian Ely
+Insight, Text Preprocessing, tambahan kamus sentimen(lexicon), twitter extraction, twitter API, presentasi, SVM modeling, load nececary word
+
+1119011-Andreas Virdian
+Insight, presentasi, Text Preprocessing, tambahan kamus sentimen(lexicon), twitter API, SVM modeling
